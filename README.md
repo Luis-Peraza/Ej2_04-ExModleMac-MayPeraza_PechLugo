@@ -3,50 +3,61 @@ Desplegar un Sistema LMS Moodle usando Docker en una computadora Mac Pro  2019
 
 ### Clonar y correr el docker compose de Moodle
 
-1. Bajar de Github a local con el comando git clone.
+1. Bajar de **Github** a local con el comando git clone.
 
-![](imgs/Imagen1.png)
+    ![](imgs/Imagen1.png)
+   
 
-2.	Ver los archivo y directorios con el comando ls.
+3.	Ver los archivo y directorios con el comando **ls**.
 
-![](imgs/Imagen2.png)
+    ![](imgs/Imagen2.png)
+  	
 
-3. Nos ubicamos en la carpeta Ej2_04-ExModleMac-MayPeraza_PechLugo con el comando cd.
+3. Nos ubicamos en la carpeta **Ej2_04-ExModleMac-MayPeraza_PechLugo** con el comando **cd**.
 
-![](imgs/Imagen3.png)
+    ![](imgs/Imagen3.png)
+   
 
-4. Escribimos el comando docker-compose up -d.
+5. Escribimos el **comando docker-compose up -d**.
 
-![](imgs/Imagen4.png)
+    ![](imgs/Imagen4.png)
 
-![](imgs/Imagen5.png)
+    ![](imgs/Imagen5.png)
+   
 
-5. Escribimos el comando ip a para revisar nuestra ip.
+5. Escribimos el comando **ip a** para revisar la **ip de nuestra maquina**.
 
-![](imgs/Imagen6.png)
+    ![](imgs/Imagen6.png)
+  
 
-6. Abrimos el navegador y en el campo de la barra superior escribimos la nuestra ip, que es nuestro caso es 192.168.56.102.
+6. Abrimos el navegador y en el campo de la barra superior escribimos la **ip de nuestra maquina**, que en nuestro caso es **192.168.56.102**.
 
-![](imgs/Imagen7.png)
+    ![](imgs/Imagen7.png)
+  
 
-7. Hacemos click en Log in y escribimos el usuario: user y la contraseña: bitnami y hacemos click en Log in.
+7. Hacemos click en **Log in** y escribimos el **usuario: user** y la **contraseña: bitnami** y hacemos click en **Log in**.
 
-![](imgs/Imagen8.png)
+    ![](imgs/Imagen8.png)
+   
 
 ### Instrucciones básicas para crear un curso
 
-8. Para crear un curso primero hacemos click en la pestaña Site administration, luego hacemos click en Courses y por último hacemos click en Add a new course.
+1. Para crear un curso primero hacemos click en la pestaña **Site administration**, luego hacemos click en **Courses** y por último hacemos click en **Add a new course**.
 
-![](imgs/Imagen9.png)
+    ![](imgs/Imagen9.png)
+   
 
-9.	Agregamos los datos requeridos del curso.
+3.	Agregamos los datos requeridos del curso.
 
-![](imgs/Imagen10.png)
+    ![](imgs/Imagen10.png)
+  	
 
-10.	Hacemos click en Save and display para guardar y crear el curso.
+5.	Hacemos click en **Save and display** para guardar y crear el curso.
 
-![](imgs/Imagen11.png)
+    ![](imgs/Imagen11.png)
+  	
+  	
+7.	Hacemos click en la pestaña de **My Courses** y ahí podemos ver nuestro curso que recién creamos.
 
-11.	Hacemos click en la pestaña de My Courses y ahí podemos ver nuestro curso que recién creamos.
-
-![](imgs/Imagen12.png)
+    ![](imgs/Imagen12.png)
+  	
