@@ -18,6 +18,7 @@ Desplegar un Sistema LMS Moodle usando Docker en una computadora Mac Pro  2019
 4. Escribimos el comando docker-compose up -d.
 
 ![GITHUB](imgs/imagen4)
+
 ![GITHUB](imgs/imagen5)
 
 5. Escribimos el comando ip a para revisar nuestra ip.
