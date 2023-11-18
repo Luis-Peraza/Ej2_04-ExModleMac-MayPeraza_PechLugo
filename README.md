@@ -16,7 +16,7 @@
 
 ## Desplegar un Sistema LMS Moodle usando Docker en una computadora Mac Pro  2019
 
-### Clonar y correr el docker compose de Moodle
+### 1. Clonar y correr el docker compose de Moodle
 
 1. Bajar de **Github** a local con el comando git clone.
 
@@ -67,7 +67,7 @@
     ![](imgs/img10.jpeg)
    
 
-### Instrucciones básicas para crear un curso
+### 2. Instrucciones básicas para crear un curso
 
 1. Para crear un curso primero hacemos click en **Log in** y escribimos el **usuario: user** y la **contraseña: bitnami** y hacemos click en **Log in**.
 
