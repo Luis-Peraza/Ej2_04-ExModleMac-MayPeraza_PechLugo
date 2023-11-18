@@ -8,7 +8,7 @@
 
 **Integrantes del equipo:** <u>May Peraza Luis Jesús // Pech Lugo Andrey Efrain</u>  
 
-**Matricula:** <u>e20080436</u> 
+**Matricula:** <u>e20080436 // e20080437</u> 
 
 **Nombre de la tarea:** <u>Despliegue de un Sistema LMS Moodle con GitHub/Docker en una Mac Pro 2019</u> 
 
