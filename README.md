@@ -1,8 +1,12 @@
 # **Tarea 2.4 Despliegue de un Sistema LMS Moodle con GitHub/Docker en una Mac Pro 2019**
 
-**Carrera:** <u>Ing. Sistemas Computacionales</u> **Materia:** <u>Dev Ops</u> **Grupo:** <u>8SA</u> **Integrantes del equipo:**
-<u>May Peraza Luis Jesús // Pech Lugo Andrey Efrain</u>  **Matricula:** <u>e20080436</u> **Nombre de la tarea:** <u>Despliegue de un Sistema LMS Moodle con
-GitHub/Docker en una Mac Pro 2019</u> **Número de la tarea:** <u>2.4</u>
+**Carrera:** <u>Ing. Sistemas Computacionales</u> 
+**Materia:** <u>Dev Ops</u> 
+**Grupo:** <u>8SA</u> 
+**Integrantes del equipo:** <u>May Peraza Luis Jesús // Pech Lugo Andrey Efrain</u>  
+**Matricula:** <u>e20080436</u> 
+**Nombre de la tarea:** <u>Despliegue de un Sistema LMS Moodle con GitHub/Docker en una Mac Pro 2019</u> 
+**Número de la tarea:** <u>2.4</u>
 
 ## Desplegar un Sistema LMS Moodle usando Docker en una computadora Mac Pro  2019
 
